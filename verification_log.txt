@@ -1,7 +1,1 @@
-#library management system 
---requirements 
--user should be able to borrow books
--user should be able to login in the system 
-
-#verification 
---the system should allow  only 3 books to borrow 
+Requirement analysis completed for authentication module
